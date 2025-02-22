@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Leandro (aka Asta86) :penguin:
 
-<!--
-**lfir/lfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a Software Developer and Linux Sysadmin from Argentina :earth_americas:.
 
-Here are some ideas to get you started:
+### :floppy_disk: Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Here](https://github.com/lfir?tab=repositories) you can explore in detail several (mostly personal) open source software projects on which I've worked through the years.
+Also a few highlights are described on my [portfolio website](https://maybelambda.cf/#projects).
+
+### :beers: Support My Work
+
+If you like my work or find it useful and would like to support me, you can make a donation using different cryptocurrencies. Visit the [donate section](https://maybelambda.cf/index.html#donate) of my website for more details.
+
+Thank you for visiting my profile!
+
+:metal: :ocean: :black_heart: :turtle: :paw_prints:
