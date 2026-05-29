@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I am a Software Developer and Linux Sysadmin from 
 ### :floppy_disk: Projects
 
 [Here](https://github.com/lfir?tab=repositories) you can explore in detail several (mostly personal) open source software projects on which I've worked through the years.
-Also a few highlights are described on my [portfolio website](https://maybelambda.cf/#projects).
+Also a few highlights are described on my [portfolio website](https://leasys.baselinux.net/#projects).
 
 ### :beers: Support My Work
 
-If you like my work or find it useful and would like to support me, you can make a donation using different cryptocurrencies. Visit the [donate section](https://maybelambda.cf/index.html#donate) of my website for more details.
+If you like my work or find it useful and would like to support me, you can make a donation using different cryptocurrencies. Visit the [donate section](https://leasys.baselinux.net/index.html#donate) of my website for more details.
 
 Thank you for visiting my profile!
 
